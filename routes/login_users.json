@@ -1,0 +1,24 @@
+{
+  "users":[
+    {
+      "username": "user@example.com",
+      "password": "m4dppKdClZotApjDb7cGI/LfrNqENiN98I2N/Vs3N0w=",
+      "id": "4ac9b61b-2e22-4f25-89b2-64c354fc10f1"
+    },
+    {
+      "username": "user2@example.com",
+      "password": "m4dppKdClZotApjDb7cGI/LfrNqENiN98I2N/Vs3N0w=",
+      "id": "4ac9b61b-2e22-4f25-89b2-64c354fc10f1"
+    },
+    {
+      "username": "user3@example.com",
+      "password": "m4dppKdClZotApjDb7cGI/LfrNqENiN98I2N/Vs3N0w=",
+      "id": "4ac9b61b-2e22-4f25-89b2-64c354fc10f1"
+    },
+    {
+      "username": "user4@example.com",
+      "password": "m4dppKdClZotApjDb7cGI/LfrNqENiN98I2N/Vs3N0w=",
+      "id": "4ac9b61b-2e22-4f25-89b2-64c354fc10f1"
+    }
+  ]
+}
